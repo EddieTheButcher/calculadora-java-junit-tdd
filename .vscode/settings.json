@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "${workspaceFolder}/lib/junit-platform-console-standalone.jar",
+        "lib/junit-platform-console-standalone.jar"
+    ]
+}
