@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
-        "src"
+        "calculadora/src",
+        "teste-de-login/src"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "${workspaceFolder}/lib/junit-platform-console-standalone.jar",
-        "lib/junit-platform-console-standalone.jar"
+        "lib/selenium/**/*.jar"
     ]
 }
